@@ -1,29 +1,33 @@
-/*  your css code here. If applicable */
 body{
-	background-color: #f5f5f5;
+	
+	background-color:#f5f5f5;
 }
+
 .header{
-	display:inline-block;
+	display:inline-bloc;
 	background-color:#011e29;
 	text-align:center;
 	color:white;
-	padding:1px;
+	padding:1px
 }
 .box1{
 	display:flex;
 	width:30vw;
 	background-color:pink;
+	
 }
 .box2{
 	display:flex;
 	width:30vw;
-	background-color:white;
+	background-color:skyblue;
 	
 }
 .box3{
 	display:flex;
+	
 	width:30vw;
 	background-color:pink;
+	
 }
 .img{
 	width:100%;
